@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Open-Source Projects.<br>⚡ Fun fact: I love Stargazing.
+🔭 I’m currently working on Full Stack Web Development.<br>👯 I’m looking to collaborate on Open-Source Projects.<br>⚡ Fun fact: I love Stargazing.
 
 
 ## 🌐 Socials:
